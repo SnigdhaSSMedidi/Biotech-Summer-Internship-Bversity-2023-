@@ -1,2 +1,3 @@
 # Biotech-Summer-Internship-Bversity-2023-
-It has all the data about the work i have done in the internship
+It is about the work i have done in the internship
+it has data related to Designing Primer, Insilco PCR, NGS data analysis, Molecular Docking, Ape Plasmid editor.
